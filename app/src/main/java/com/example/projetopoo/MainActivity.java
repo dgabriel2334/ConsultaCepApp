@@ -74,7 +74,6 @@ public class MainActivity extends AppCompatActivity {
                 }
                 reader.close();
             } else {
-                // Trate os casos em que a resposta não foi bem-sucedida
                 System.out.println("Código de resposta da API não foi 200: " + connection.getResponseCode());
             }
             connection.disconnect();
