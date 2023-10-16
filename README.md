@@ -15,7 +15,7 @@ Bem-vindo ao Consulta de CEP Android App! Este projeto é uma introdução ao de
 
 ## Instalação
 
-1. Faça um clone deste repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+1. Faça um clone deste repositório: `git clone https://github.com/dgabriel2334/ConsultaCepApp.git`
 2. Abra o Android Studio.
 3. Selecione "Open an existing Android Studio project".
 4. Navegue até o diretório onde o projeto foi clonado e selecione o arquivo `build.gradle` dentro da pasta.
@@ -37,7 +37,7 @@ Este projeto está licenciado sob a licença [MIT](https://opensource.org/licens
 
 ## Contato
 
-Se você tiver alguma dúvida ou quiser entrar em contato, sinta-se à vontade para enviar um e-mail para [seu-email@example.com](mailto:seu-email@example.com).
+Se você tiver alguma dúvida ou quiser entrar em contato, sinta-se à vontade para enviar um e-mail para [dariogabriel2334@gmail.com](mailto:dariogabriel2334@gmail.com).
 
 ---
 Feito com ❤️
